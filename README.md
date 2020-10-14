@@ -4,7 +4,7 @@ I am a developer and sysadmin, Proven ability to create and deliver solutions ti
 Skills: Java /  Perl / Shell Script / Linux / Unix
 
 - 🔭 I’m currently working on Ericsson 
-- 🌱 I’m currently learning about Java and Spring framework 
+- 🌱 I’m currently learning about, Linux, Java, Spring framework and Perl 
 - 📫 How to reach me: jho_ja8@hotmail.com 
 
 
