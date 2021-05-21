@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jhon Apache
 I am a IT Engineer with Proven ability to create and deliver solutions tied to business growth, organizational development and systems optimization.
 
-Skills: Java / Shell Script / Python / Linux
+Skills: Shell Script / Python / Linux
 
 - 🔭 I’m currently working on Ericsson 
 - 🌱 I’m currently learning about: Linux, Java, Spring framework, and python
