@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Jhon Apache
-I am a IT Engineer with proven ability to create and deliver solutions tied to business growth, organizational development and systems optimization.
+I am a Software Engineer with proven ability to create and deliver solutions tied to business growth, organizational development and systems optimization.
 
 Skills: Shell Script / Python / Java / Linux / Automation / git
 
