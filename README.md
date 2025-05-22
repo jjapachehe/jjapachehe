@@ -4,7 +4,7 @@ I am a IT Engineer with proven ability to create and deliver solutions tied to b
 Skills: Shell Script / Python / Java / Linux / Automation / git
 
 - 🔭 I’m currently working on Ericsson 
-- 🌱 I’m currently learning about: Linux, Python, devops and SRE.
+- 🌱 I’m currently learning about: Linux, Java, DevOps and SRE.
 - 📫 How to reach me: jhon.apache@outlook.com
 
 
